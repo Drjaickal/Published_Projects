@@ -12,3 +12,10 @@ https://ats-resume-expert-v334.onrender.com/
 
 Published from Render.com
 https://browser-based-chat-application-mern-oi.onrender.com
+
+
+
+
+
+Published from vercel.apo
+https://jackifyai.vercel.app/
