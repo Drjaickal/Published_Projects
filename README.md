@@ -17,5 +17,11 @@ https://browser-based-chat-application-mern-oi.onrender.com
 
 
 
-Published from vercel.apo
+Published from vercel.app
 https://jackifyai.vercel.app/
+
+
+
+
+Published from vercel.app
+https://deathray.vercel.app/
