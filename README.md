@@ -25,3 +25,7 @@ https://jackifyai.vercel.app/
 
 Published from vercel.app
 https://deathray.vercel.app/
+
+
+Published from vercel.app
+https://relor-zoom-cone.vercel.app
