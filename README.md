@@ -38,3 +38,7 @@ https://nike-jaickal.vercel.app
 
 Published from vercel.app
 https://iphone15-drjaickal.vercel.app
+
+
+Published from vercel.app
+https://avijit-portfolio-dr-jaickals-projects.vercel.app/
